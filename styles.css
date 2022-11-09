@@ -47,17 +47,12 @@ h1, h2, h3, h4, p {
 .gift-hint {
     margin-top: 0;
 }
-
-#gift-img-cheers {
+#gift-img-cute {
     height: 200px;
 }
-#gift-img-genius {
+#gift-img-eevee {
     height: 200px;
 }
-#gift-img-happy {
-    height: 200px;
-}
-
 .gift-img {
     margin: 20px auto;
     max-width: 400px;
@@ -68,24 +63,20 @@ h1, h2, h3, h4, p {
     background-size: cover;
 }
 
-#gift-img-happy:hover {
+#gift-img-eevee:hover {
     background-image: url("images/eevee.gif");
 }
 
-#gift-img-hot:hover {
+#gift-img-kiss:hover {
     background-image: url("images/kiss.gif");
 }
 
-#gift-img-genius:hover {
+#gift-img-cute:hover {
     background-image: url("images/cute.gif");
 }
 
-#gift-img-badass:hover {
+#gift-img-hug:hover {
     background-image: url("images/hug.gif");
-}
-
-#gift-img-cheers:hover {
-    background-image: url("images/cheers.gif");
 }
 
 #footer {
